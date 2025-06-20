@@ -8,7 +8,7 @@ El solucionario está organizado según la estructura del libro:
 
 - :green_book: 1) Probability Review
   - :orange_book: Exercises
-    - :pencil: [1.5.1. Some identities](#)
+    - :pencil: [1.5.1. Some identities](https://rull3r.github.io/2025-06-19-MarkovChains-Bremaud-1-5-1/)
     - :pencil: [...](#)
    
 ¡Explora los diferentes capítulos y secciones para encontrar las soluciones que necesitas! :bulb:
